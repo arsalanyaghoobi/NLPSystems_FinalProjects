@@ -4,3 +4,5 @@
    Local URL: http://localhost:8501
    Network URL: http://192.168.0.100:8501
 4. For deleting the database, press delete the database for **two** times.
+
+Running this code, you will be directed to an streamlit environemnt in which you can access to a simple (non-contextual) sentiment classifier.
