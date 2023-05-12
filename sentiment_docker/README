@@ -1,0 +1,3 @@
+1. docker pull arsalanyaghoobi/simple_sentiment:context_free_sentiment
+2. docker run -it arsalanyaghoobi/simple_sentiment:context_free_sentiment
+3. Enjoy the code
