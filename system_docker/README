@@ -1,3 +1,7 @@
 1. docker pull arsalanyaghoobi/multiturn_gpt_conversational_ai_model:system
 2. docker run -it arsalanyaghoobi/multiturn_gpt_conversational_ai_model:system
 3. Enjoy the code
+Running the system model, the model will take your utterance and label it emotionally and pass it to a generative model and 
+generate a response that is emotionally congruent to the input data. 
+The model emotional classifier for the first utterance will be the non-contextual sentiment classifier while for the later utterances will be 
+the contextual sentiment classifier.
