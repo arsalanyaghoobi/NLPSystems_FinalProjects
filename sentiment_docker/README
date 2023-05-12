@@ -2,3 +2,5 @@
 2. docker run -it arsalanyaghoobi/simple_sentiment:context_free_sentiment
 3. For better performance make sure you have no typo in your dictation.
 4. Enjoy the code
+Running this code, you will be able to use a simple (non-contextual) sentiment classifier. Dont forget that the model is 
+trained on utetrances that were emotionally labeled in conversational context. 
