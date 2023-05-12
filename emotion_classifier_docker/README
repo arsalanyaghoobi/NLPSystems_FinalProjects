@@ -1,6 +1,5 @@
 1. docker pull arsalanyaghoobi/contextual_sentiment_classifier:contextual_sentiment
 2. docker run -it arsalanyaghoobi/contextual_sentiment_classifier:contextual_sentiment
 3. Enjoy the code
-
 Running this code you will have access to a contetutal sentiment classifier which label the second utterance
 using the first utterance as the context to the second utterance.
