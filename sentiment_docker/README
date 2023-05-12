@@ -2,3 +2,4 @@
 2. docker run -it arsalanyaghoobi/simple_sentiment:context_free_sentiment
 3. For better performance make sure you have no typo in your dictation.
 4. Enjoy the code
+Running this code, you will be using an affectual single turn conversational AI model.
