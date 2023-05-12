@@ -1,4 +1,4 @@
 1. docker pull arsalanyaghoobi/dialogpt:dialogptmodel
 2. docker run -it arsalanyaghoobi/dialogpt:dialogptmodel
 3. Enjoy the code
-Running this code you will be able to talk to a conversational AI model; the model is pretrained by open AI on more than 147 M conversation.
+Running this code you will be able to talk to a conversational AI model; the model is pretrained by open AI on more than 147 M conversations.
